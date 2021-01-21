@@ -1,0 +1,21 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+
+background-image: url("Canvas.jpg");
+background-size: cover;
+background-position: center;
+
+}
+
+#Canvas1	{
+
+	background-color: white;
+	border-width:  40px; 
+	border-style: ridge;
+
+}
